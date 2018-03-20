@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SLAspectJ.iml" filepath="$PROJECT_DIR$/SLAspectJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-aspectj/hz-aspectj.iml" filepath="$PROJECT_DIR$/sl-aspectj/hz-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hz-aspectj/hzaspectj.iml" filepath="$PROJECT_DIR$/hz-aspectj/hzaspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-aspectj/sl-aspectj.iml" filepath="$PROJECT_DIR$/sl-aspectj/sl-aspectj.iml" />
+    </modules>
+  </component>
+</project>
