@@ -4,6 +4,7 @@ android {
     compileSdkVersion 26
     defaultConfig {
         applicationId "cc.seedland.slaspectj"
+        multiDexEnabled true
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
